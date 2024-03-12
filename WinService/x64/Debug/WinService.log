@@ -1,0 +1,3 @@
+﻿  WinService.cpp
+C:\Users\dasha\source\repos\WinService\WinService\WinService.cpp(151,21): warning C4018: <: несоответствие типов со знаком и без знака
+  WinService.vcxproj -> C:\Users\dasha\source\repos\WinService\x64\Debug\WinService.exe
